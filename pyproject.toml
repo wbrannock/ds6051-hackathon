@@ -1,0 +1,10 @@
+[project]
+name = "ds6051"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.14.0",
+    "huggingface-hub[cli]>=1.22.0",
+    "torch>=2.12.1",
+    "transformers>=5.13.0",
+]
