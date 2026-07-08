@@ -77,7 +77,6 @@ uv run jupyter nbconvert --to notebook --execute --inplace analysis.ipynb
 | `judge_prompts.md` | The shared judge rubric (system prompt + user template, parsed at runtime) |
 | `run_judges.py` | Runs the 3-judge panel over all responses |
 | `analysis.ipynb` | Scorecard, by-language/category charts, judge agreement, case studies |
-| `inference_timing_test.py` | Throughput benchmark used to budget GPU time |
 | `colab_setup.sh` | One-shot fresh-VM setup (deps, token, uploads) |
 | `data/` | Eval prompts, responses, judgments (lenient + strict), scorecard |
 
