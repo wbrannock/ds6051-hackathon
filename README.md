@@ -2,7 +2,7 @@
 # Multilingual Content Moderation for Gemma
 
 ## TL;DR
-For our project we created a multilingual safety evaluation comparing the base Gemma-4-E2B against the instruction tuned Gemma model on red-teaming prompts, scored by a panel of three LLM judges.
+For our project we created a multilingual content moderation safety evaluation comparing the base Gemma-4-E2B against the instruction tuned Gemma model on red-teaming prompts, scored by a panel of three LLM judges.
 
 ## Team Members
 - William Brannock (svv8fs)
