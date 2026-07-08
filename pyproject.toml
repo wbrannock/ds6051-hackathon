@@ -4,6 +4,7 @@ version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
     "accelerate>=1.14.0",
+    "datasets>=5.0.0",
     "huggingface-hub[cli]>=1.22.0",
     "torch>=2.12.1",
     "torchvision>=0.27.1",
